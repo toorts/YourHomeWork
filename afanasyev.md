@@ -86,3 +86,7 @@ git clone <repo url>
 ```bash
 git push
 ```
+## Загрузка из удаленного репозитория
+```bash
+git pull
+```
