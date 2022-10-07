@@ -35,7 +35,7 @@ git checkout <sha>
 git checkout <branch>
 ```
 
-![](https://miro.medium.com/max/990/1*_UUaozFPd2qHfCFjlhIgGA.png "При пожаре")
+___
 
 # 2 часть
 
@@ -90,3 +90,4 @@ git push
 ```bash
 git pull
 ```
+![](https://miro.medium.com/max/990/1*_UUaozFPd2qHfCFjlhIgGA.png "При пожаре")
