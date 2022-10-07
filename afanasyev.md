@@ -34,10 +34,6 @@ git log
 git checkout <sha>
 git checkout <branch>
 ```
-## Выгрузка в удаленный репозиторий
-```bash
-git push
-```
 
 ![](https://miro.medium.com/max/990/1*_UUaozFPd2qHfCFjlhIgGA.png "При пожаре")
 
@@ -75,13 +71,18 @@ git tag <tagname>
 git blame <file_name>
 ```
 
-## Клонирование
-```bash
-git clone <repo url>
-```
-
 ## Удаление ветки
 ```bash
 git branch -d <branch_name>
 ```
 >-d – флаг, опция команды git branch, сокращенный вариант записи --delete. Как и следует из названия, предназначен для удаления ветки
+___
+# 3 Часть
+## Клонирование
+```bash
+git clone <repo url>
+```
+## Выгрузка в удаленный репозиторий
+```bash
+git push
+```
